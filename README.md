@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a **Data Analyst / Data Scientist** passionat
 - 📊 Experienced in data wrangling, statistical analysis, and data visualization
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([link])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([www.linkedin.com/in/aryanpachauri])
 
 ## 🚀 Technical Skills
 ### 🖥️ Programming & Scripting:
@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
 - MLOps & Model Deployment
 
 ## 📫 Get in Touch
-📩 Feel free to reach out via [LinkedIn]([link]) or explore my projects on GitHub.
+📩 Feel free to reach out via [LinkedIn]([www.linkedin.com/in/aryanpachauri]) or explore my projects on GitHub.
 
 ---
 
