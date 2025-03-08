@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Aryan Pachauri]
 
 Welcome to my GitHub profile! I am a **Data Analyst / Data Scientist** passionate about leveraging data-driven insights to solve real-world problems. I have experience in data analysis, machine learning, and visualization, helping businesses make informed decisions.
 
